@@ -117,7 +117,7 @@
 		55DB8C281F92ACBA00482DED /* tigerWin 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "tigerWin 2.png"; path = "../../../tigerWin 2.png"; sourceTree = "<group>"; };
 		55DB8C2A1F92AED200482DED /* paw 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "paw 2.png"; path = "../../../paw 2.png"; sourceTree = "<group>"; };
 		55DB8C2C1F92C92800482DED /* tigerWin75.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tigerWin75.png; path = ../../../tigerWin75.png; sourceTree = "<group>"; };
-		55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		783125530A839045239C50D5 /* Pods_tigerHacksUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_tigerHacksUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA0F9D3D3DE2D6BD669D547 /* Pods-tigerHacksUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tigerHacksUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-tigerHacksUITests/Pods-tigerHacksUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		92CFB6CCA77F728F0A99D357 /* Pods-tigerHacksTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tigerHacksTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-tigerHacksTests/Pods-tigerHacksTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -172,7 +172,6 @@
 		55DB8BB91F91893D00482DED = {
 			isa = PBXGroup;
 			children = (
-				55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */,
 				559F3CAA1F9343AA00359D6C /* bidsCell.swift */,
 				559F3CA81F93439300359D6C /* myBidsVC.swift */,
 				559F3CA41F92F70900359D6C /* myTickets.swift */,
@@ -247,6 +246,7 @@
 		55DB8BE41F91893E00482DED /* tigerHacksUITests */ = {
 			isa = PBXGroup;
 			children = (
+				55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */,
 				55DB8BE51F91893E00482DED /* tigerHacksUITests.swift */,
 				55DB8BE71F91893E00482DED /* Info.plist */,
 			);
