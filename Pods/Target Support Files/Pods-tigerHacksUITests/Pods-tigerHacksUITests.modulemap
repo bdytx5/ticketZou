@@ -1,0 +1,6 @@
+framework module Pods_tigerHacksUITests {
+  umbrella header "Pods-tigerHacksUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
