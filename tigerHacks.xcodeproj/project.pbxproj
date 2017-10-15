@@ -212,6 +212,7 @@
 				55DB8BCC1F91893E00482DED /* Assets.xcassets */,
 				55DB8BF91F918D6200482DED /* stadiumImage 2.jpg */,
 				55DB8C281F92ACBA00482DED /* tigerWin 2.png */,
+				55E8C4EF1F93C29000FF3C93 /* Images */,
 				55DB8BF71F918BBB00482DED /* mizzouTicket.png */,
 				55DB8C031F91A55200482DED /* GoogleService-Info.plist */,
 				55DB8C0D1F92145000482DED /* idaho 2.png */,
@@ -260,6 +261,13 @@
 				55DB8BFF1F919F0100482DED /* forumPost.swift */,
 			);
 			name = "New Group";
+			sourceTree = "<group>";
+		};
+		55E8C4EF1F93C29000FF3C93 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 		D6885BBF738ABA4F8DB94F98 /* Frameworks */ = {
