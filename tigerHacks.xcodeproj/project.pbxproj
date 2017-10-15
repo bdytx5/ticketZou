@@ -82,7 +82,7 @@
 		55DB8BCA1F91893E00482DED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		55DB8BCC1F91893E00482DED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55DB8BCF1F91893E00482DED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		55DB8BD11F91893E00482DED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55DB8BD11F91893E00482DED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = tigerHacks/Info.plist; sourceTree = "<group>"; };
 		55DB8BD61F91893E00482DED /* tigerHacksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tigerHacksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		55DB8BDA1F91893E00482DED /* tigerHacksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tigerHacksTests.swift; sourceTree = "<group>"; };
 		55DB8BDC1F91893E00482DED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -184,6 +184,7 @@
 				55DB8BFB1F919CA100482DED /* ticketFeed.swift */,
 				55DB8BF51F918A8700482DED /* signUp.swift */,
 				55DB8BF31F918A0D00482DED /* loginVC.swift */,
+				55DB8BD11F91893E00482DED /* Info.plist */,
 				55DB8BC41F91893E00482DED /* tigerHacks */,
 				55DB8BD91F91893E00482DED /* tigerHacksTests */,
 				55DB8BE41F91893E00482DED /* tigerHacksUITests */,
@@ -229,7 +230,6 @@
 				55DB8C241F92943E00482DED /* logoutIcon.png */,
 				55DB8C2C1F92C92800482DED /* tigerWin75.png */,
 				55DB8BCE1F91893E00482DED /* LaunchScreen.storyboard */,
-				55DB8BD11F91893E00482DED /* Info.plist */,
 			);
 			path = tigerHacks;
 			sourceTree = "<group>";
