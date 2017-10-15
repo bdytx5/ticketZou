@@ -97,7 +97,7 @@
 		55DB8BFD1F919E8400482DED /* forumVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forumVC.swift; sourceTree = "<group>"; };
 		55DB8BFF1F919F0100482DED /* forumPost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forumPost.swift; sourceTree = "<group>"; };
 		55DB8C011F919FED00482DED /* forumPostVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forumPostVC.swift; sourceTree = "<group>"; };
-		55DB8C031F91A55200482DED /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		55DB8C031F91A55200482DED /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		55DB8C051F91EA0200482DED /* extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
 		55DB8C071F91F8B700482DED /* forumCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forumCell.swift; sourceTree = "<group>"; };
 		55DB8C091F92138000482DED /* sellTicketsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sellTicketsVC.swift; sourceTree = "<group>"; };
@@ -185,6 +185,7 @@
 				55DB8BF51F918A8700482DED /* signUp.swift */,
 				55DB8BF31F918A0D00482DED /* loginVC.swift */,
 				55DB8BD11F91893E00482DED /* Info.plist */,
+				55DB8C031F91A55200482DED /* GoogleService-Info.plist */,
 				55DB8BC41F91893E00482DED /* tigerHacks */,
 				55DB8BD91F91893E00482DED /* tigerHacksTests */,
 				55DB8BE41F91893E00482DED /* tigerHacksUITests */,
@@ -215,7 +216,6 @@
 				55DB8C281F92ACBA00482DED /* tigerWin 2.png */,
 				55E8C4EF1F93C29000FF3C93 /* Images */,
 				55DB8BF71F918BBB00482DED /* mizzouTicket.png */,
-				55DB8C031F91A55200482DED /* GoogleService-Info.plist */,
 				55DB8C0D1F92145000482DED /* idaho 2.png */,
 				55DB8C2A1F92AED200482DED /* paw 2.png */,
 				55DB8C0B1F92144A00482DED /* uconn 2.png */,
