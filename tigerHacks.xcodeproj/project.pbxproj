@@ -172,6 +172,7 @@
 		55DB8BB91F91893D00482DED = {
 			isa = PBXGroup;
 			children = (
+				55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */,
 				559F3CAA1F9343AA00359D6C /* bidsCell.swift */,
 				559F3CA81F93439300359D6C /* myBidsVC.swift */,
 				559F3CA41F92F70900359D6C /* myTickets.swift */,
@@ -273,7 +274,6 @@
 		55E8C4F01F93C89100FF3C93 /* supportingFiles */ = {
 			isa = PBXGroup;
 			children = (
-				55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */,
 			);
 			name = supportingFiles;
 			sourceTree = "<group>";
