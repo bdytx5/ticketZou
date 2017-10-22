@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		559F3CA51F92F70900359D6C /* myTickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 559F3CA41F92F70900359D6C /* myTickets.swift */; };
-		559F3CA71F9308FC00359D6C /* paw2 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 559F3CA61F9308FC00359D6C /* paw2 2.png */; };
 		559F3CA91F93439300359D6C /* myBidsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 559F3CA81F93439300359D6C /* myBidsVC.swift */; };
 		559F3CAB1F9343AA00359D6C /* bidsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 559F3CAA1F9343AA00359D6C /* bidsCell.swift */; };
 		55DB8BC61F91893E00482DED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8BC51F91893E00482DED /* AppDelegate.swift */; };
@@ -20,8 +19,6 @@
 		55DB8BE61F91893E00482DED /* tigerHacksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8BE51F91893E00482DED /* tigerHacksUITests.swift */; };
 		55DB8BF41F918A0D00482DED /* loginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8BF31F918A0D00482DED /* loginVC.swift */; };
 		55DB8BF61F918A8700482DED /* signUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8BF51F918A8700482DED /* signUp.swift */; };
-		55DB8BF81F918BBB00482DED /* mizzouTicket.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8BF71F918BBB00482DED /* mizzouTicket.png */; };
-		55DB8BFA1F918D6200482DED /* stadiumImage 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8BF91F918D6200482DED /* stadiumImage 2.jpg */; };
 		55DB8BFC1F919CA100482DED /* ticketFeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8BFB1F919CA100482DED /* ticketFeed.swift */; };
 		55DB8BFE1F919E8400482DED /* forumVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8BFD1F919E8400482DED /* forumVC.swift */; };
 		55DB8C001F919F0100482DED /* forumPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8BFF1F919F0100482DED /* forumPost.swift */; };
@@ -29,23 +26,10 @@
 		55DB8C061F91EA0200482DED /* extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C051F91EA0200482DED /* extensions.swift */; };
 		55DB8C081F91F8B700482DED /* forumCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C071F91F8B700482DED /* forumCell.swift */; };
 		55DB8C0A1F92138000482DED /* sellTicketsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C091F92138000482DED /* sellTicketsVC.swift */; };
-		55DB8C0C1F92144A00482DED /* uconn 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C0B1F92144A00482DED /* uconn 2.png */; };
-		55DB8C0E1F92145000482DED /* idaho 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C0D1F92145000482DED /* idaho 2.png */; };
-		55DB8C101F9216FC00482DED /* pigs 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C0F1F9216FC00482DED /* pigs 2.png */; };
-		55DB8C121F92170B00482DED /* floridaPic 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C111F92170B00482DED /* floridaPic 2.png */; };
-		55DB8C141F92174300482DED /* tennessee 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C131F92174300482DED /* tennessee 2.png */; };
-		55DB8C161F92175A00482DED /* vandy 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C151F92175A00482DED /* vandy 2.png */; };
-		55DB8C181F92192B00482DED /* mizzouPic 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C171F92192B00482DED /* mizzouPic 2.png */; };
-		55DB8C1A1F921E6D00482DED /* Screen Shot 2017-10-14 at 5.28.02 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C191F921E6D00482DED /* Screen Shot 2017-10-14 at 5.28.02 AM.png */; };
 		55DB8C1C1F926DEC00482DED /* ticketBayVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C1B1F926DEC00482DED /* ticketBayVC.swift */; };
 		55DB8C1E1F926E7800482DED /* ticketCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C1D1F926E7800482DED /* ticketCell.swift */; };
 		55DB8C201F926FF200482DED /* ticketPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C1F1F926FF200482DED /* ticketPost.swift */; };
 		55DB8C231F9279A500482DED /* ticketSelectedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C221F9279A500482DED /* ticketSelectedVC.swift */; };
-		55DB8C251F92943E00482DED /* logoutIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C241F92943E00482DED /* logoutIcon.png */; };
-		55DB8C271F92A35100482DED /* faurot-field-map-12 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C261F92A35100482DED /* faurot-field-map-12 2.jpg */; };
-		55DB8C291F92ACBA00482DED /* tigerWin 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C281F92ACBA00482DED /* tigerWin 2.png */; };
-		55DB8C2B1F92AED200482DED /* paw 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C2A1F92AED200482DED /* paw 2.png */; };
-		55DB8C2D1F92C92800482DED /* tigerWin75.png in Resources */ = {isa = PBXBuildFile; fileRef = 55DB8C2C1F92C92800482DED /* tigerWin75.png */; };
 		55E8C4F21F93C8A000FF3C93 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */; };
 		66E9D02372517ADA1BEE5136 /* Pods_tigerHacks.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9642C864F465FF4CBA68C75 /* Pods_tigerHacks.framework */; };
 		76F70DCC17FE3A255D535F97 /* Pods_tigerHacksUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 783125530A839045239C50D5 /* Pods_tigerHacksUITests.framework */; };
@@ -73,7 +57,6 @@
 		0620A9E242E2F7A59C64A831 /* Pods-tigerHacks.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tigerHacks.debug.xcconfig"; path = "Pods/Target Support Files/Pods-tigerHacks/Pods-tigerHacks.debug.xcconfig"; sourceTree = "<group>"; };
 		1E68D6E044985B83B963DCD5 /* Pods_tigerHacksTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_tigerHacksTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		559F3CA41F92F70900359D6C /* myTickets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myTickets.swift; sourceTree = "<group>"; };
-		559F3CA61F9308FC00359D6C /* paw2 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "paw2 2.png"; path = "../../../paw2 2.png"; sourceTree = "<group>"; };
 		559F3CA81F93439300359D6C /* myBidsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myBidsVC.swift; sourceTree = "<group>"; };
 		559F3CAA1F9343AA00359D6C /* bidsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bidsCell.swift; sourceTree = "<group>"; };
 		55DB8BC21F91893E00482DED /* tigerHacks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tigerHacks.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -91,8 +74,6 @@
 		55DB8BE71F91893E00482DED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55DB8BF31F918A0D00482DED /* loginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = loginVC.swift; sourceTree = "<group>"; };
 		55DB8BF51F918A8700482DED /* signUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = signUp.swift; sourceTree = "<group>"; };
-		55DB8BF71F918BBB00482DED /* mizzouTicket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mizzouTicket.png; path = ../../../mizzouTicket.png; sourceTree = "<group>"; };
-		55DB8BF91F918D6200482DED /* stadiumImage 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "stadiumImage 2.jpg"; path = "../../../stadiumImage 2.jpg"; sourceTree = "<group>"; };
 		55DB8BFB1F919CA100482DED /* ticketFeed.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ticketFeed.swift; sourceTree = "<group>"; };
 		55DB8BFD1F919E8400482DED /* forumVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forumVC.swift; sourceTree = "<group>"; };
 		55DB8BFF1F919F0100482DED /* forumPost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forumPost.swift; sourceTree = "<group>"; };
@@ -100,24 +81,11 @@
 		55DB8C051F91EA0200482DED /* extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
 		55DB8C071F91F8B700482DED /* forumCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forumCell.swift; sourceTree = "<group>"; };
 		55DB8C091F92138000482DED /* sellTicketsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sellTicketsVC.swift; sourceTree = "<group>"; };
-		55DB8C0B1F92144A00482DED /* uconn 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "uconn 2.png"; path = "../../../uconn 2.png"; sourceTree = "<group>"; };
-		55DB8C0D1F92145000482DED /* idaho 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "idaho 2.png"; path = "../../../idaho 2.png"; sourceTree = "<group>"; };
-		55DB8C0F1F9216FC00482DED /* pigs 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pigs 2.png"; path = "../../../pigs 2.png"; sourceTree = "<group>"; };
-		55DB8C111F92170B00482DED /* floridaPic 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "floridaPic 2.png"; path = "../../../floridaPic 2.png"; sourceTree = "<group>"; };
-		55DB8C131F92174300482DED /* tennessee 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "tennessee 2.png"; path = "../../../tennessee 2.png"; sourceTree = "<group>"; };
-		55DB8C151F92175A00482DED /* vandy 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "vandy 2.png"; path = "../../../vandy 2.png"; sourceTree = "<group>"; };
-		55DB8C171F92192B00482DED /* mizzouPic 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mizzouPic 2.png"; path = "../../../mizzouPic 2.png"; sourceTree = "<group>"; };
-		55DB8C191F921E6D00482DED /* Screen Shot 2017-10-14 at 5.28.02 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2017-10-14 at 5.28.02 AM.png"; path = "../../../Screen Shot 2017-10-14 at 5.28.02 AM.png"; sourceTree = "<group>"; };
 		55DB8C1B1F926DEC00482DED /* ticketBayVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ticketBayVC.swift; sourceTree = "<group>"; };
 		55DB8C1D1F926E7800482DED /* ticketCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ticketCell.swift; sourceTree = "<group>"; };
 		55DB8C1F1F926FF200482DED /* ticketPost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ticketPost.swift; sourceTree = "<group>"; };
 		55DB8C221F9279A500482DED /* ticketSelectedVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ticketSelectedVC.swift; sourceTree = "<group>"; };
-		55DB8C241F92943E00482DED /* logoutIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logoutIcon.png; path = ../../../logoutIcon.png; sourceTree = "<group>"; };
-		55DB8C261F92A35100482DED /* faurot-field-map-12 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "faurot-field-map-12 2.jpg"; path = "../../../faurot-field-map-12 2.jpg"; sourceTree = "<group>"; };
-		55DB8C281F92ACBA00482DED /* tigerWin 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "tigerWin 2.png"; path = "../../../tigerWin 2.png"; sourceTree = "<group>"; };
-		55DB8C2A1F92AED200482DED /* paw 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "paw 2.png"; path = "../../../paw 2.png"; sourceTree = "<group>"; };
-		55DB8C2C1F92C92800482DED /* tigerWin75.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tigerWin75.png; path = ../../../tigerWin75.png; sourceTree = "<group>"; };
-		55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		783125530A839045239C50D5 /* Pods_tigerHacksUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_tigerHacksUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA0F9D3D3DE2D6BD669D547 /* Pods-tigerHacksUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tigerHacksUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-tigerHacksUITests/Pods-tigerHacksUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		92CFB6CCA77F728F0A99D357 /* Pods-tigerHacksTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tigerHacksTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-tigerHacksTests/Pods-tigerHacksTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -212,23 +180,7 @@
 				55DB8BC51F91893E00482DED /* AppDelegate.swift */,
 				55DB8BC91F91893E00482DED /* Main.storyboard */,
 				55DB8BCC1F91893E00482DED /* Assets.xcassets */,
-				55DB8BF91F918D6200482DED /* stadiumImage 2.jpg */,
-				55DB8C281F92ACBA00482DED /* tigerWin 2.png */,
 				55E8C4EF1F93C29000FF3C93 /* Images */,
-				55DB8BF71F918BBB00482DED /* mizzouTicket.png */,
-				55DB8C0D1F92145000482DED /* idaho 2.png */,
-				55DB8C2A1F92AED200482DED /* paw 2.png */,
-				55DB8C0B1F92144A00482DED /* uconn 2.png */,
-				55DB8C0F1F9216FC00482DED /* pigs 2.png */,
-				55DB8C111F92170B00482DED /* floridaPic 2.png */,
-				559F3CA61F9308FC00359D6C /* paw2 2.png */,
-				55DB8C131F92174300482DED /* tennessee 2.png */,
-				55DB8C151F92175A00482DED /* vandy 2.png */,
-				55DB8C171F92192B00482DED /* mizzouPic 2.png */,
-				55DB8C261F92A35100482DED /* faurot-field-map-12 2.jpg */,
-				55DB8C191F921E6D00482DED /* Screen Shot 2017-10-14 at 5.28.02 AM.png */,
-				55DB8C241F92943E00482DED /* logoutIcon.png */,
-				55DB8C2C1F92C92800482DED /* tigerWin75.png */,
 				55DB8BCE1F91893E00482DED /* LaunchScreen.storyboard */,
 			);
 			path = tigerHacks;
@@ -246,7 +198,6 @@
 		55DB8BE41F91893E00482DED /* tigerHacksUITests */ = {
 			isa = PBXGroup;
 			children = (
-				55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */,
 				55DB8BE51F91893E00482DED /* tigerHacksUITests.swift */,
 				55DB8BE71F91893E00482DED /* Info.plist */,
 			);
@@ -274,6 +225,7 @@
 		55E8C4F01F93C89100FF3C93 /* supportingFiles */ = {
 			isa = PBXGroup;
 			children = (
+				55E8C4F11F93C8A000FF3C93 /* GoogleService-Info.plist */,
 			);
 			name = supportingFiles;
 			sourceTree = "<group>";
@@ -407,26 +359,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55DB8C121F92170B00482DED /* floridaPic 2.png in Resources */,
-				55DB8C181F92192B00482DED /* mizzouPic 2.png in Resources */,
 				55DB8BD01F91893E00482DED /* LaunchScreen.storyboard in Resources */,
-				55DB8C161F92175A00482DED /* vandy 2.png in Resources */,
-				55DB8C101F9216FC00482DED /* pigs 2.png in Resources */,
-				55DB8BF81F918BBB00482DED /* mizzouTicket.png in Resources */,
 				55DB8BCD1F91893E00482DED /* Assets.xcassets in Resources */,
-				55DB8C271F92A35100482DED /* faurot-field-map-12 2.jpg in Resources */,
-				55DB8C291F92ACBA00482DED /* tigerWin 2.png in Resources */,
-				559F3CA71F9308FC00359D6C /* paw2 2.png in Resources */,
-				55DB8C251F92943E00482DED /* logoutIcon.png in Resources */,
 				55DB8BCB1F91893E00482DED /* Main.storyboard in Resources */,
-				55DB8BFA1F918D6200482DED /* stadiumImage 2.jpg in Resources */,
-				55DB8C0E1F92145000482DED /* idaho 2.png in Resources */,
-				55DB8C2B1F92AED200482DED /* paw 2.png in Resources */,
-				55DB8C141F92174300482DED /* tennessee 2.png in Resources */,
-				55DB8C0C1F92144A00482DED /* uconn 2.png in Resources */,
 				55E8C4F21F93C8A000FF3C93 /* GoogleService-Info.plist in Resources */,
-				55DB8C1A1F921E6D00482DED /* Screen Shot 2017-10-14 at 5.28.02 AM.png in Resources */,
-				55DB8C2D1F92C92800482DED /* tigerWin75.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
