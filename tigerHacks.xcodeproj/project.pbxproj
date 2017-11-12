@@ -30,7 +30,7 @@
 		55DB8C1E1F926E7800482DED /* ticketCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C1D1F926E7800482DED /* ticketCell.swift */; };
 		55DB8C201F926FF200482DED /* ticketPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C1F1F926FF200482DED /* ticketPost.swift */; };
 		55DB8C231F9279A500482DED /* ticketSelectedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DB8C221F9279A500482DED /* ticketSelectedVC.swift */; };
-		55DE5DA71FB7CEE3002EE4F8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 55DE5DA61FB7CEE3002EE4F8 /* GoogleService-Info.plist */; };
+		55DE5DA91FB7D00B002EE4F8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 55DE5DA81FB7D00B002EE4F8 /* GoogleService-Info.plist */; };
 		66E9D02372517ADA1BEE5136 /* Pods_tigerHacks.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9642C864F465FF4CBA68C75 /* Pods_tigerHacks.framework */; };
 		76F70DCC17FE3A255D535F97 /* Pods_tigerHacksUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 783125530A839045239C50D5 /* Pods_tigerHacksUITests.framework */; };
 		8357AC87BBB5AFF74105D919 /* Pods_tigerHacksTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E68D6E044985B83B963DCD5 /* Pods_tigerHacksTests.framework */; };
@@ -85,7 +85,7 @@
 		55DB8C1D1F926E7800482DED /* ticketCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ticketCell.swift; sourceTree = "<group>"; };
 		55DB8C1F1F926FF200482DED /* ticketPost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ticketPost.swift; sourceTree = "<group>"; };
 		55DB8C221F9279A500482DED /* ticketSelectedVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ticketSelectedVC.swift; sourceTree = "<group>"; };
-		55DE5DA61FB7CEE3002EE4F8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		55DE5DA81FB7D00B002EE4F8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
 		783125530A839045239C50D5 /* Pods_tigerHacksUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_tigerHacksUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA0F9D3D3DE2D6BD669D547 /* Pods-tigerHacksUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tigerHacksUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-tigerHacksUITests/Pods-tigerHacksUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		92CFB6CCA77F728F0A99D357 /* Pods-tigerHacksTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tigerHacksTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-tigerHacksTests/Pods-tigerHacksTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -225,7 +225,7 @@
 		55E8C4F01F93C89100FF3C93 /* supportingFiles */ = {
 			isa = PBXGroup;
 			children = (
-				55DE5DA61FB7CEE3002EE4F8 /* GoogleService-Info.plist */,
+				55DE5DA81FB7D00B002EE4F8 /* GoogleService-Info.plist */,
 			);
 			name = supportingFiles;
 			sourceTree = "<group>";
@@ -360,7 +360,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				55DB8BD01F91893E00482DED /* LaunchScreen.storyboard in Resources */,
-				55DE5DA71FB7CEE3002EE4F8 /* GoogleService-Info.plist in Resources */,
+				55DE5DA91FB7D00B002EE4F8 /* GoogleService-Info.plist in Resources */,
 				55DB8BCD1F91893E00482DED /* Assets.xcassets in Resources */,
 				55DB8BCB1F91893E00482DED /* Main.storyboard in Resources */,
 			);
